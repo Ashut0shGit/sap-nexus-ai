@@ -1,0 +1,32 @@
+{
+  "DEVK900451": [
+    {
+      "object_name": "ZCL_PRICING_ENGINE",
+      "object_type": "CLAS",
+      "description": "Pricing calculation logic"
+    },
+    {
+      "object_name": "ZI_CUSTOMER_PRICING",
+      "object_type": "DDLS",
+      "description": "Customer pricing CDS view"
+    },
+    {
+      "object_name": "ZSD_ORDER_API",
+      "object_type": "SRVB",
+      "description": "Sales Order OData Service"
+    }
+  ],
+
+  "DEVK900452": [
+    {
+      "object_name": "ZCL_SALES_ORDER",
+      "object_type": "CLAS",
+      "description": "Sales Order Logic"
+    },
+    {
+      "object_name": "ZSALES_REPORT",
+      "object_type": "PROG",
+      "description": "Sales Reporting Program"
+    }
+  ]
+}
